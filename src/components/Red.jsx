@@ -1,3 +1,5 @@
+import '../index.css'
+
 export default function Red() {
   return (
     <div className="red">
